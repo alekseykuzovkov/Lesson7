@@ -1,0 +1,16 @@
+{
+  "name": "lesson7",
+  "version": "1.0.0",
+  "description": "lesson 7",
+  "main": "rest.js",
+  "dependencies": {
+    "mysql": "^2.11.1",
+    "restify": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aleksey Kuzovkov",
+  "license": "ISC"
+}
